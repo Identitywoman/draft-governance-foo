@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+# area: AREA
+# workgroup: WG Working Group
 keyword:
  - next generation
  - unicorn
  - AI-native
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+#  group: WG
+#  type: Working Group
+#  mail: WG@example.com
+#  arch: https://example.com/WG
+  github: "Identitywoman/draft-governance-foo"
+  latest: "https://Identitywoman.github.io/draft-governance-foo/draft-governance-foo.html"
 
 author:
  -
